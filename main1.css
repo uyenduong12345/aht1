@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.head{
+    text-align: center;
+}
+.content{
+    background-color: rgba(244, 247, 246, 0.918);
+}
+.container{
+    
+    max-width: 1140px;
+    margin: 0 auto;
+}
+.col{
+    margin-top: 100px;
+    width: 30%;
+    display: inline-block;
+
+}
+.bentren{
+    padding-top: 7px;
+    height: 50px;
+    background-color: cornflowerblue;
+    color: azure;
+    text-align: center;
+}
+.benduoi{
+    padding-left: 10px;
+    padding-top: 13px;
+    background-color: azure;
+    height: 350px;
+}
+.text{
+    font-weight: 300;
+}
